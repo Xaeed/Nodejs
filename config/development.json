@@ -1,0 +1,8 @@
+{
+    "name":"This is the development settings",
+
+    "mail":{
+"host":"This is development host "
+
+    }
+}

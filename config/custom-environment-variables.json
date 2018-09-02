@@ -1,0 +1,9 @@
+{
+    "name":"This is the production settings",
+
+    "mail":{
+             
+                "password":"app_password",
+                "secureid":"secure_id"
+    }
+}
